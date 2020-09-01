@@ -7,7 +7,7 @@ public class GitTest {
         System.out.println("hello..........."); //modify by master
         System.out.println("hello...........");  //modify by hotfix
         System.out.println("hello...........");
-        System.out.println("hello...........");
+        System.out.println("hello..........."); //modify by clone
         System.out.println("hello...........");
         System.out.println("hello...........");
         System.out.println("hello...........");
